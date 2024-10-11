@@ -9,6 +9,7 @@ Modul ini membahas dasar-dasar pengendalian alur program yang sangat penting dal
 ## Code Explanation
 
 Soal Latihan Modul 2A
+
 1.
 Program ini pada dasarnya melakukan penukaran atau rotasi terhadap nilai-nilai string yang diberikan oleh pengguna. Jika diperhatikan, urutan string setelah penukaran adalah:
 Nilai dari satu berpindah ke dua,
@@ -37,6 +38,7 @@ Kemudian nilai Kelvin dibulatkan ke bilangan bulat dengan menggunakan int()
 Program ini menerima input dari user yang berupa lima angka dan tiga karakter. Kemudian lima angka yang dimasukkan akan diperlakukan sebagai kode ASCII dan diubah menjadi karakter ASCII yang sesuai. Misalnya, angka 65 diubah menjadi karakter 'A'. Lalu Tiga huruf yang dimasukkan oleh pengguna diubah menjadi karakter ASCII berikutnya (karakter dengan nilai ASCII satu lebih tinggi). Contoh, jika 'a' dimasukkan, program akan mencetak 'b', karena 'a' memiliki nilai ASCII 97 dan 'b' memiliki nilai 98.
 
 Soal Latihan Modul 2B
+
 1.
 Program ini adalah program  yang mengecek apakah input warna yang diberikan oleh pengguna pada setiap percobaan telah sesuai dengan urutan yang ditentukan ("merah", "kuning", "hijau", dan "ungu"). Pengguna diminta memasukkan empat warna pada setiap percobaan, dan program melakukan lima kali percobaan. Jika semua percobaan berhasil memasukkan urutan warna yang benar, maka program akan mencetak "BERHASIL: true". Jika ada salah satu percobaan yang tidak sesuai, maka program akan mencetak "BERHASIL: false".
 
@@ -51,6 +53,7 @@ Program ini menghitung nilai perkiraan akar kuadrat dari 2 dengan menggunakan de
 Program menggunakan formula deret untuk menghitung akar 2 dengan pola perhitungan yang berulang-ulang (iteratif), di mana setiap iterasi menambahkan faktor pengali pada nilai awal perkiraan akar 2.
 
 Soal Latihan Modul 2C
+
 1.
 Program ini digunakan untuk menghitung biaya pengiriman parsel berdasarkan beratnya dalam gram. Program akan menerima input berupa berat parsel dalam gram, kemudian program menghitung biaya pengiriman berdasarkan berat kilogram (kg) dan sisa gram di bawah 1 kg. Biaya pengiriman dihitung dengan aturan tarif tertentu tergantung pada berat keseluruhan dan sisa gram. Aturan penghitungan biaya adalah sebagai berikut: 
 Biaya dasar: Rp 10.000 per kilogram. 
