@@ -76,6 +76,7 @@ jawab: 1. Variabel nam dideklarasikan sebagai float64, tetapi dalam blok if, nam
 
 c. Perbaiki Program!
 jawab: ''' go
+
       package main
 
       import "fmt"
